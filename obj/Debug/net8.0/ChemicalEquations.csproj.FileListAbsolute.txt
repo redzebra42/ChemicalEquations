@@ -12,3 +12,4 @@
 /home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.pdb
 /home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.genruntimeconfig.cache
 /home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ref/ChemicalEquations.dll
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.sourcelink.json

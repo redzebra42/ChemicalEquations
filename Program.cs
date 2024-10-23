@@ -42,18 +42,50 @@ class Solution
         return molecule;
     }
 
+    public static List<List<Atoms>>[] EquationParsing(string equation)
+    {
+        List<List<Atoms>>[] equations = [[], []];
+        string currMolName = "";
+        int i = 0;
+        foreach (char c in equation)
+        {
+            if (c == ' ' && currMolName != "+" && currMolName != "->")
+            {
+                equations[i].Add(ToMolecule(currMolName));
+                currMolName = "";
+            }
+            else if (c == ' ' && currMolName == "->")
+            {
+                currMolName = "";
+                i++;
+            }
+            else if (c != ' ')
+            {
+                currMolName += c;
+            }
+        }
+        equations[i].Add(ToMolecule(currMolName));
+        return equations;
+    }
+
+    public static List<List<int>> EquationBalancing(List<List<Atoms>>[] equation)
+    {
+        List<List<int>> coefficients = [[], []];
+        
+        return coefficients;
+    }
+
     static void Main(string[] args)
     {
-        string unbalanced = "HeCO2";
+        string unbalanced = "HeCO2 + C3H -> HeC7 + 02H3";
 
         // Write an answer using Console.WriteLine()
         // To debug: Console.Error.WriteLine("Debug messages...");
 
         Console.WriteLine("balanced");
-        List<Atoms> molecule = ToMolecule(unbalanced);
-        foreach (Atoms atm in molecule)
+        foreach (var mol in EquationParsing(unbalanced))
         {
-            Console.WriteLine(atm.name + " " + atm.number);
+            Console.WriteLine(mol.Count);
         }
     }
 }
