@@ -1,0 +1,14 @@
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/bin/Debug/net8.0/ChemicalEquations
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/bin/Debug/net8.0/ChemicalEquations.deps.json
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/bin/Debug/net8.0/ChemicalEquations.runtimeconfig.json
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/bin/Debug/net8.0/ChemicalEquations.dll
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/bin/Debug/net8.0/ChemicalEquations.pdb
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.GeneratedMSBuildEditorConfig.editorconfig
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.AssemblyInfoInputs.cache
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.AssemblyInfo.cs
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.csproj.CoreCompileInputs.cache
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.dll
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/refint/ChemicalEquations.dll
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.pdb
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ChemicalEquations.genruntimeconfig.cache
+/home/tristan/C#/ChemicalEquationsEquilibration/ChemicalEquations/obj/Debug/net8.0/ref/ChemicalEquations.dll
